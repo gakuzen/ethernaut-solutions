@@ -1,0 +1,10 @@
+await hackContract.hack(); // At block n
+await hackContract.hack(); // At block n+1
+await hackContract.hack(); // At block n+2
+await hackContract.hack(); // At block n+3
+await hackContract.hack(); // At block n+4
+await hackContract.hack(); // At block n+5
+await hackContract.hack(); // At block n+6
+await hackContract.hack(); // At block n+7
+await hackContract.hack(); // At block n+8
+await hackContract.hack(); // At block n+9
